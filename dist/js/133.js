@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcomponet_library=self.webpackChunkcomponet_library||[]).push([[133],{133:(e,n,r)=>{r.r(n),r.d(n,{default:()=>t}),r(294);var s=r(893);const t=function(){return(0,s.jsxs)("div",{children:[(0,s.jsx)("h1",{children:"One"}),(0,s.jsx)("p",{children:"Here's something to live update."})]})}}}]);

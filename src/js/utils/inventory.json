@@ -1,0 +1,34 @@
+{
+	"data": [
+		{
+			"name": "One",
+			"machine-name": "one",
+			"type": "componet"
+		},
+		{
+			"name": "Two",
+			"machine-name": "two",
+			"type": "componet"
+		},
+		{
+			"name": "Three",
+			"machine-name": "three",
+			"type": "componet"
+		},
+		{
+			"name": "Four",
+			"machine-name": "four",
+			"type": "componet"
+		},
+		{
+			"name": "Five",
+			"machine-name": "five",
+			"type": "componet"
+		},
+		{
+			"name": "Six",
+			"machine-name": "six",
+			"type": "componet"
+		}
+	]
+}
